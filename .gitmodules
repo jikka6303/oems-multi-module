@@ -1,0 +1,12 @@
+[submodule "app-commons"]
+	path = app-commons
+	url = https://github.com/jikka6303/oems-app-commons
+[submodule "event-service"]
+	path = event-service
+	url = https://github.com/jikka6303/oems-event-service
+[submodule "payment-service"]
+	path = payment-service
+	url = https://github.com/jikka6303/oems-payment-service
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/jikka6303/oems-user-service
